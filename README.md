@@ -2,7 +2,7 @@
 
 <p align="center">
    <br/>
-   <a href="https://overall.cloud" target="_blank"><img width="150px" src="https://overall.cloud/wp-content/uploads/2021/08/lateral-icone-colorido-texto-colorido-overall-cloud.png"></a>
+   <a href="https://overall.cloud" target="_blank"><img width="150px" src="https://overall.cloud/wp-content/uploads/2021/08/lateral-icone-colorido-texto-colorido-overall-cloud.png" /></a>
    <h3 align="center">MEI ERP</h3>
    <p align="center">
    Gerenciamento descomplicado para o seu negócio.
@@ -40,7 +40,7 @@ Para o desenvolvimento do front-end e back-end foi utilizado as principais ferra
 * CI/CD
 
 ### Linguagens
-* Javascript / Typescript
+* Javascript / Typescript / NextJS
 * Jenkins / Github Actions
 * Redis
 * Kafta / RabbitMQ

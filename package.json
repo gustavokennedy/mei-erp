@@ -1,0 +1,36 @@
+{
+  "name": "mei-erp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "repository": "https://github.com/gustavokennedy/mei-erp.git",
+  "bugs": {
+    "url": "https://github.com/gustavokennedy/mei-erp.git/issues"
+  },
+  "homepage": "",
+  "main": "",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "types": "tsc --noEmit"
+  },
+  "author": "Gustavo Kennedy Renkel <gustavo@overall.cloud>",
+  "license": "ISC",
+  "dependencies": {
+    "@next-auth/dynamodb-adapter": "^1.1.0",
+    "next": "^12.0.11-canary.4",
+    "next-auth": "^4.2.1",
+    "nodemailer": "^6.6.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "@types/react": "^17.0.39",
+    "typescript": "^4.5.5"
+  },
+  "prettier": {
+    "semi": false
+  }
+}
