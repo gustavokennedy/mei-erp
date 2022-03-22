@@ -27,10 +27,10 @@ O <b>MEI ERP</b> é um projeto para gerenciamento de pequenos negócios (MEI) co
 Para o desenvolvimento do front-end e back-end foi utilizado as principais ferramentas e linguagens do mercado, se baseando nas vagas oferecidas para os cargos.
 
 ### Estruturas & Funcionalidades
-* Autenticação (JWT, NextAuth)
+* Autenticação (JWT)
 * Routing
 * CRUD
-* Frameworks - JS && NODEJS
+* Frameworks
 * Web Crawler
 * Design Pattern
 * Arch Pattern
