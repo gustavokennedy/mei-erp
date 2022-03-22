@@ -2,7 +2,7 @@
 
 <p align="center">
    <br/>
-   <h2 align="center">MEI ERP</h2>
+   <h1 align="center">MEI ERP</h1>
    <p align="center">
    Gerenciamento descomplicado para o seu negócio.
    </p>
