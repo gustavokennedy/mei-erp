@@ -40,7 +40,7 @@ Para o desenvolvimento do front-end e back-end foi utilizado as principais ferra
 * CI/CD
 
 ### Linguagens
-* Javascript / Typescript / NextJS
+* Golang ou Javascript 
 * Jenkins / Github Actions
 * Redis
 * Kafta / RabbitMQ
